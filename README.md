@@ -1,6 +1,6 @@
 # 🎬 Video Caption Generator
 
-Automatically transcribe and burn subtitles into videos using OpenAI Whisper — optimized for Indonesian language content.
+Automatically transcribe and burn subtitles into videos using OpenAI Whisper — optimized for Indonesian language content. **100% free**, no API key needed.
 
 ## ✨ Features
 
