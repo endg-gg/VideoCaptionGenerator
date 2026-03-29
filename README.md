@@ -16,8 +16,6 @@ Automatically transcribe and burn subtitles into videos using OpenAI Whisper —
 |-------|--------|
 | Raw video (no subtitles) | Video with auto-generated burned-in captions |
 
-> Example output: `Lamborghini pernah jadi milik Indonesia？!.mp4`
-
 ## 🛠️ Setup
 
 ### 1. Siapkan folder di Google Drive
